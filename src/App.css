@@ -1,0 +1,12 @@
+@import '~antd/dist/reset.css';
+
+$yellow: #ffa200;
+$green: #6eda78;
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.ant-btn-primary {
+  background-color: $yellow;
+}
